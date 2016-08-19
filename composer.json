@@ -1,5 +1,5 @@
 {
-    "name": "industrious-mouse/laravel-dotmailer",
+    "name": "shortlist-digital/laravel-dotmailer",
     "description": "Laravel wrapper for the dotmailer-api-v2-client library (https://github.com/romanpitak/dotmailer-api-v2-client)",
     "license": "MIT",
     "authors": [
